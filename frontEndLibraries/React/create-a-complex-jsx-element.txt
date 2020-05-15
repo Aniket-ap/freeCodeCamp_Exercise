@@ -1,0 +1,10 @@
+// write your code here
+const JSX = <div>
+  <h1>Hello React</h1>
+  <p>I am from paragraph</p>
+  <ul>
+    <li>React</li>
+    <li>Angular</li>
+    <li>Vue</li>
+  </ul>
+</div>
